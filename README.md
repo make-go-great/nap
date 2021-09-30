@@ -1,9 +1,8 @@
 # NAP
 
----
 A simple HTTP client for Go
 
-# What is nap
+## What is nap
 
 NAP is better than REST, unarguably.
 
