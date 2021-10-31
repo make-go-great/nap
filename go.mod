@@ -1,4 +1,4 @@
-module github.com.make-go-great.nap
+module github.com/make-go-great/nap
 
 go 1.17
 
